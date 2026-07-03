@@ -221,23 +221,6 @@ Database
 MongoDB Atlas
 ```
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of:
-
-- Login Page
-Secure JWT-based authentication for Customers and Administrators.
-![Login](<img width="1920" height="1080" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/4b9c81e4-8115-424b-af41-a41994d6c3f0" />)
-
-- Customer Dashboard
-- Reservation Form
-- Reservation List
-- Admin Dashboard
-
----
-
 ## 📈 Future Improvements
 
 - WebSocket-based live reservation updates
